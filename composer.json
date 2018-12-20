@@ -1,0 +1,20 @@
+{
+    "name": "hien/uploadfile",
+    "description": "uploadfile",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "authors": [
+        {
+            "name": "Hien",
+            "email": "568402951@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Hien\\": "src/"
+        }
+    }
+}
